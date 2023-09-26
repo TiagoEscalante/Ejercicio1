@@ -1,0 +1,3 @@
+para clonar el repositorio genero una copia del repositorio que esta 
+en la nube, dandole al boton de (ver en mi escritorio) en la pagina de github,
+generandome una copia del repositorio que esta en la nube para poder usarlo.
